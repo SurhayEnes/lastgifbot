@@ -17,10 +17,10 @@ exports.run = (client, message) => {
 exports.conf = {
     enabled: true,
     guildOnly: false,
-    aliases: ["yardım"],
+    aliases: ["help"],
     permLevel: 0
   };
   
   exports.help = {
-    name: "valorant"
+    name: "yardım"
   };
