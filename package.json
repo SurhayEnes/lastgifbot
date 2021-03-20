@@ -1,12 +1,12 @@
 {
-  "name": "narosgifbot",
+  "name": "lastgifbot",
   "version": "0.0.1",
   "description": "",
-  "main": "narcos.js",
+  "main": "last.js",
   "scripts": {
     "test": "node narcos.js"
   },
-  "author": "Narcos",
+  "author": "Last",
   "license": "ISC",
   "dependencies": {
     "chalk": "^4.1.0",
